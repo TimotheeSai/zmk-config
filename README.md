@@ -2,6 +2,13 @@
 
 [Generator](https://nickcoutsos.github.io/keymap-editor/)
 
+# Debug
+
+## Display
+
+- Ensure external power is on: `EP_ON`
+- Press reset button
+
 # Local
 
 ## Setup
